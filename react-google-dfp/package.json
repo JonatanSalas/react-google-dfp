@@ -1,0 +1,14 @@
+{
+  "name": "react-google-dfp",
+  "version": "1.0.0",
+  "description": "Set of Isomorphic React components implementing Google Double Click for Publishers.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonatan Salas",
+  "license": "MIT"
+}

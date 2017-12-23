@@ -1,0 +1,11 @@
+{
+  "name": "react-google-dfp-packages",
+  "version": "1.0.0",
+  "private": true,
+  "description": "React Google DFP project packages",
+  "main": "index.js",
+  "author": "Jonatan Salas",
+  "license": "MIT",
+  "homepage": "https://github.com/JonatanSalas/react-google-dfp#readme",
+  "workspaces": ["example", "react-google-dfp"]
+}
